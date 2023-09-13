@@ -1,0 +1,13 @@
+{
+  "genres": ["Cualquiera", "Ciencia ficción", "Terror", "Zombies", "Fantasía"],
+  "orders": [{
+    "label": "Año",
+    "value": "year"
+  }, {
+    "label": "Páginas",
+    "value": "pages"
+  }, {
+    "label": "Aleatorio",
+    "value": "random"
+  }]
+}
